@@ -1,0 +1,44 @@
+  [
+      {
+          "users": {
+
+    "password" : "123456",
+    "day" : "1",
+    "month": "2",
+    "year" : "1990",
+    "firstname": "hend",
+    "lastname": "kadry",
+    "company": "test",
+    "address": "test test test",
+    "address2":"test2 ",
+    "country": "India",
+    "state": "test",
+    "city": "testt",
+    "zipcode" : "544",
+    "mobilenumber": "01010101010"
+
+  }
+      },
+      {
+          "users":{
+
+          "password" : "123456",
+          "day" : "2",
+          "month": "2",
+          "year" : "1991",
+          "firstname": "hend1",
+          "lastname": "kadry1",
+          "company": "test1",
+          "address": "test1 test1 test",
+          "address2":"test21 ",
+          "country": "Canada",
+          "state": "test1",
+          "city": "testt1",
+          "zipcode" : "5444",
+          "mobilenumber": "01110101012"
+
+      }}
+  ]
+
+
+
